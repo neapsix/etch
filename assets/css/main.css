@@ -254,6 +254,11 @@ main#content pre code {
     padding: 0;
 }
 
+main#content blockquote {
+    border-left: 1px solid #949494;
+    padding-left: 1.5rem;
+}
+
 main#content section.footnotes {
     font-size: 0.9em;
 }
