@@ -229,6 +229,13 @@ main#content figure figcaption p {
     padding-left: 8px;
 }
 
+main#content blockquote {
+    margin: 20px 0;
+    border-left: 1px solid #949494;
+    padding-left: 1.5rem;
+    font-size: 1.4rem;
+}
+
 main#content code,
 main#content pre {
     font-family: 'Menlo', monospace;
@@ -252,11 +259,6 @@ main#content pre {
 
 main#content pre code {
     padding: 0;
-}
-
-main#content blockquote {
-    border-left: 1px solid #949494;
-    padding-left: 1.5rem;
 }
 
 main#content section.footnotes {
